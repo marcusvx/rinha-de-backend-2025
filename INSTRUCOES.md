@@ -21,7 +21,7 @@ Além do endpoint `POST /payments`, também é necessário disponibilizar um end
 
 ![diagrama](misc/imgs/instrucoes/image-03.png)
 
-Essas chamadas periódicas durante o teste da Rinha vão comprar as respostas e, a cada inconsistência, uma multa salgada será aplicada!
+Essas chamadas periódicas durante o teste da Rinha vão comparar as respostas e, a cada inconsistência, uma multa salgada será aplicada!
 
 #### A Vida é uma Montanha Russa Mesmo...
 
